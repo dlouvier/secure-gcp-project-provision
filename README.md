@@ -1,0 +1,2 @@
+# Introduction
+This project demonstrates how to set up the foundational infrastructure for provisioning resources in Google Cloud using Terraform. This setup avoids the use of Service Accounts and Service Account Keys by leveraging an external principal provided by GitHub OIDC.
